@@ -24,3 +24,12 @@ body div {
    margin: 4px 2px;
    cursor: pointer;
 }
+
+#btn-enviar:hover{
+   background-color: #b1c0c8;
+}
+
+#btn-enviar:disabled{
+   background-color: #d9dbdd;
+   color: #b5bebe;
+}
