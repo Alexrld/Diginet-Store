@@ -8,3 +8,5 @@ const ordersSchema = new Schema({
 });
 
 const Orders = mongoose.model('Orders', ordersSchema);
+
+export default Orders;
