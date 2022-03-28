@@ -1,0 +1,26 @@
+body{
+   background-color: #c7cbce;
+   display: inline;
+}
+
+body div {
+   flex-grow: 1;
+   background-color: rgb(238, 234, 234);
+   margin:5px;
+   padding:2px;
+   border-radius: 5px;
+}
+
+#btn-enviar{
+   background-color: #c1d5e7;
+   border-radius: 7px;
+   border: none;
+   color: #4e5c5c;
+   padding: 5px 10px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 14px;
+   margin: 4px 2px;
+   cursor: pointer;
+}
