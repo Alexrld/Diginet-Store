@@ -33,3 +33,11 @@ body div {
    background-color: #d9dbdd;
    color: #b5bebe;
 }
+
+.selected{
+   background-color: #b1c0c8;
+}
+
+#pc-components-list{
+   cursor: pointer;
+}
